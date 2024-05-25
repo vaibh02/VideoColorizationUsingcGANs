@@ -3,3 +3,4 @@ streamlit==1.35.0
 torch==2.3.0
 ffmpeg
 matplotlib
+scipy
