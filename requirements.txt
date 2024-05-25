@@ -4,3 +4,4 @@ torch==2.3.0
 ffmpeg
 matplotlib
 scipy
+fastprogress
